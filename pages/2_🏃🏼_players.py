@@ -5,6 +5,11 @@ st.set_page_config(
     page_icon="🏃🏼",
     layout="wide"
 )
+
+
+
+
+
 df_data = st.session_state["data"]
 
 
